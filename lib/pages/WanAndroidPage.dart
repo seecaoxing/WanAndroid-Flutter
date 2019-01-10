@@ -17,7 +17,7 @@ class _WanAndroidAppState extends State<WanAndroidApp>
 
   List<BottomNavigationBarItem> _navigationViews;
 
-  var appBarTitles = ['首页', '发现', '我的'];
+  var appBarTitles = ['首页', '发现', '我DE'];
 
 
   var _body;
